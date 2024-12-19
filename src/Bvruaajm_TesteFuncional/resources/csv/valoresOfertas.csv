@@ -1,0 +1,5 @@
+Dados de valores de oferta invalidos e respectivas mensagens de retorno.
+Campo De; Campo Por; Mensagem retorno De               ; Mensagem retorno Por
+0       ; 0        ; Insira um valor maior que R$ 0,99 ; Insira um valor maior que R$ 0,09
+1000002 ; 1000001  ; O valor máximo é de R$ 10.000,00  ; O valor máximo é de R$ 10.000,00
+50      ; 600      ; Insira um valor maior que R$ 0,99; Insira um valor menor que o valor original (De)

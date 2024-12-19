@@ -1,0 +1,1 @@
+DELETE BVR.LINK_PGTO WHERE COD_LINK_PGTO in ($codigoLink1$, $codigoLink2$, $codigoLink3$)

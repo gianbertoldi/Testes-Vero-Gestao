@@ -1,0 +1,1 @@
+UPDATE BVR.LINK_PGTO SET STATUS = '$status$' WHERE COD_LINK_PGTO = $codLink$

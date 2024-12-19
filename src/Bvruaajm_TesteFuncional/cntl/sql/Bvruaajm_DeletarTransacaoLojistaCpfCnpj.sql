@@ -1,0 +1,1 @@
+delete from bvr.transacao where cpf_cnpj_lojista= '$cpfCnpj$'

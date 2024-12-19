@@ -1,0 +1,1 @@
+UPDATE BAG.EC_PERFIL SET ID_TERMO_BJP = '$status$' WHERE EC_CPF_CNPJ = $cnpjCpf$
